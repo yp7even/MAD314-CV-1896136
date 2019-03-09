@@ -1,0 +1,14 @@
+Steps:
+
+Step 1: git clone https://github.com/yp7even/MAD314-CV-1896136.git : The use of "git clone" command is to clone my repositories to my computer. 
+								     It created a folder containing the files from my repositories. 
+								     It link my GitHub repositories and my local repositories.
+
+Step 2: touch report.txt		: The use of "touch" command is to create report.txt and instruction.txt file from gitbash.
+	touch instruction.txt		
+
+Step 3: git add {file_name} : The use of "git add" command is to put files in staging.
+
+Step 4: git commit -m "message" : The use of "git commit -m" command is to save all files to my local repositories.
+
+Step 5: git push origin : The use of "git push origin" command is to upload the latest changes to remote repositories.
